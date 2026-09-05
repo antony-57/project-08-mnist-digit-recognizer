@@ -144,4 +144,3 @@ This project helped me understand the basic deep-learning workflow:
 
 It serves as my first practical introduction to deep learning and image classification.
 
-```
