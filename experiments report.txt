@@ -1,0 +1,52 @@
+Baseline
+
+Train accuracy: 0.9937
+
+Validation accuracy: 0.9790
+
+Test accuracy: 0.9765
+
+
+Experiment 1 
+
+Train accuracy: 0.9979
+
+Validation accuracy: 0.9800
+
+Test accuracy: 0.9814
+
+
+Experiment 2 (Best one)  
+
+Train accuracy: 0.9994
+
+Validation accuracy: 0.9817
+
+Test accuracy: 0.9826
+
+
+Experiment 3
+
+Train accuracy: 0.9969
+
+Validation accuracy: 0.9797
+
+Test accuracy: 0.9775
+
+
+Experiment 4
+
+Train accuracy: 0.9921
+
+Validation accuracy: 0.9762
+
+Test accuracy: 0.9725
+
+
+Experiment 5
+
+Train accuracy: 0.9940
+
+Validation accuracy: 0.9773
+
+Test accuracy: 0.9775
