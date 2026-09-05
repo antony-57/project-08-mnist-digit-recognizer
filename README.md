@@ -1,4 +1,3 @@
-````markdown
 # MNIST Handwritten Digit Recognizer
 
 A beginner deep-learning project that recognizes handwritten digits using a neural network trained on the MNIST dataset.
